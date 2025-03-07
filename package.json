@@ -1,7 +1,7 @@
 {
-  "name": "@gsaes/ui",
+  "name": "@giovanedann/ui",
   "private": false,
-  "version": "0.0.9",
+  "version": "0.0.1",
   "files": [
     "dist"
   ],
